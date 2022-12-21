@@ -1,0 +1,40 @@
+code,name
+ AA,Action/Adventure
+ AD,Adult
+  AN,Anthology
+  AP,Anthropomorphics
+  AS,Art Supplies
+  CJ,Comics Journalism
+  CR,Crime
+  DR,Drama
+  DT,Designer Toys
+  FA,Fantasy
+  GA,Gaming/Role Playing
+  HA,Halloween
+  HO,Horror
+  HS,Historical
+  HT,How to Draw
+  HU,Humor/Comedy
+  KI,Kids
+  LG,Legend
+  LT,Literary
+  MA,Manga
+  MS,Mystery
+  MU,Music
+  MV,Movie/TV Tie-In
+  PC,Pop Culture
+  PK,Pokémon
+  RB,Reality-Based
+  RF,Reference/Art Books/How To
+  RL,Religious
+  RO,Romance
+  SF,Science Fiction
+  SH,Super-hero
+  SN,Seasonal
+  SP,Sports
+  SU,Surreal/Non-Linear
+  TY,Toy Tie-In
+  WR,War
+  WS,Western
+ XX,*No Genre* or *All Genre*
+  YA,Yaoi

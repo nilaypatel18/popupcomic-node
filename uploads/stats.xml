@@ -1,0 +1,8 @@
+<stats>
+  <runs>
+    <latest date="2019-12-12" success="100" fail="2" />
+    <latest date="2019-12-11" success="99" fail="3" />
+    <latest date="2019-12-10" success="102" fail="0" />
+    <latest date="2019-12-09" success="102" fail="0" />
+  </runs>
+</stats>
